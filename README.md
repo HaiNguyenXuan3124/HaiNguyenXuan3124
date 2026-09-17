@@ -13,7 +13,7 @@
 <br>
 
 # 💫 About Me:
-AI Engineer đam mê xây dựng ứng dụng AI thực tế, tập trung vào LLM, Retrieval-Augmented Generation (RAG) và Computer Vision. Luôn học hỏi thêm về Deep Learning, NLP và Agentic workflows. Sẵn sàng hợp tác các dự án AI/ML.
+VIBE CUT KIT
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/highlandlinho) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyenxuanhai3124@gmail.com)
