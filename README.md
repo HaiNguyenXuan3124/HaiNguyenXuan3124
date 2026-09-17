@@ -15,7 +15,7 @@
 # 💫 About Me:
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EBBCBA&center=true&vCenter=true&repeat=true&width=600&lines=VIBE+CODE+KIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=EBBCBA&center=true&vCenter=true&repeat=true&width=600&lines=VIBE+CUT+KIT" alt="Typing SVG" />
 
 </div>
 
